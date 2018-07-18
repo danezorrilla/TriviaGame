@@ -1,7 +1,7 @@
 # TriviaGame
-<br><br>
+<br>
 
-Description:<br>
+Description:<br><br>
 In this game, you must answer all of the question in the trivia game within 60 seconds. Once you submit your answers the computer will check your answer and display your score.<br>
 <br>
 Instructions:<br>
